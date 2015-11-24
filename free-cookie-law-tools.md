@@ -8,6 +8,7 @@
 + [Cookiekit](https://github.com/lucatwiv/Free-cookie-law-tools/blob/master/free-cookie-law-tools.md#cookiekit)
 + [Divascookies](https://github.com/lucatwiv/Free-cookie-law-tools/blob/master/free-cookie-law-tools.md#divascookies)
 + [EUCookieLaw](https://github.com/lucatwiv/Free-cookie-law-tools/blob/master/free-cookie-law-tools.md#eucookielaw)
++ [IT_COOKIE_LAW](https://github.com/lucatwiv/Free-cookie-law-tools/blob/master/free-cookie-law-tools.md#it_cookie_law)
  
 Wordpress plugin
 
@@ -108,6 +109,14 @@ Please describe the pros and cons of the tools.
 
 **Pros**
 * Prevents cookies
+
+### IT_COOKIE_LAW
+[IT_COOKIE_LAW](https://github.com/NemboWeb/it_cookie_law)
+
+**Pros**
+* Simplicity (under 100 lines of well documented code)
+* Requires only minor skills in order to be installed
+* Accept cookie with a scroll
 
 <br><br>
 ## Wordpress Plugin
